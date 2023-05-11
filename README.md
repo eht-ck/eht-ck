@@ -18,4 +18,3 @@ I'm currently learning Python web-app development<br>Pronoun: He/Him
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
