@@ -15,6 +15,3 @@ I'm currently learning Python web-app development<br>Pronoun: He/Him
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=eht-ck&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
